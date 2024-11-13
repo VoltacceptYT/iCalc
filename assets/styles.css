@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'Helvetica';
-    src: url('./Helvetica-Bold.ttf') format('ttf');
+    font-family: 'Roboto';
+    src: url('./Roboto-Bold.ttf') format('ttf');
 }
 
 body, html {
@@ -29,14 +29,14 @@ input[type="text"] {
     background-color: #000000;
     color: #F8F8F8;
     font-size: 54px;
-    font-family: Helvetica, sans-serif;
+    font-family: Roboto, sans-serif;
 }
 
 #operations {
     width: 100%;
     height: 40px;
     font-size: 35px;
-    font-family: Helvetica, sans-serif;
+    font-family: Roboto, sans-serif;
     text-align: right;
     margin-bottom: 10px;
     color: #737373;
@@ -51,7 +51,7 @@ button {
     border-radius: 90px;
     border: none;
     font-size: 36px;
-    font-family: Helvetica, sans-serif, sans-serif;
+    font-family: Roboto, sans-serif;
 }
 
 .number-btn {
@@ -60,7 +60,7 @@ button {
 }
 
 .operator-btn {
-    background-color: #F28506;
+    background-color: #3DDC84;
     color: #E9E9E9;
 }
 
@@ -93,7 +93,7 @@ button {
     color: #fff;
     text-align: center;
     border-radius: 10px;
-    font-family: Helvetica, sans-serif;
+    font-family: Roboto, sans-serif;
 }
 
 .popup-content {
